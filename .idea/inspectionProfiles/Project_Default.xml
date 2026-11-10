@@ -1,0 +1,99 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyInterpreterInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="false" level="WARNING" enabled_by_default="false">
+      <option name="ignoredPackages">
+        <list>
+          <option value="python-dotenv" />
+          <option value="pandas" />
+          <option value="requests" />
+          <option value="psutil" />
+          <option value="colorama" />
+          <option value="psycopg2-binary" />
+          <option value="opensearch-py" />
+          <option value="kafka-python" />
+          <option value="boto3" />
+          <option value="jmespath" />
+          <option value="PyJWT" />
+          <option value="python-dateutil" />
+          <option value="pydruid" />
+          <option value="app-json-file-cache" />
+          <option value="scikit-learn" />
+          <option value="numpy" />
+          <option value="joblib" />
+          <option value="pytest" />
+          <option value="pyarrow" />
+          <option value="statsmodels" />
+          <option value="tqdm" />
+          <option value="xgboost" />
+          <option value="azure-common" />
+          <option value="azure-core" />
+          <option value="azure-identity" />
+          <option value="azure-mgmt-advisor" />
+          <option value="azure-mgmt-apimanagement" />
+          <option value="azure-mgmt-appconfiguration" />
+          <option value="azure-mgmt-applicationinsights" />
+          <option value="azure-mgmt-authorization" />
+          <option value="azure-mgmt-automation" />
+          <option value="azure-mgmt-azurestack" />
+          <option value="azure-mgmt-azurestackhci" />
+          <option value="azure-mgmt-batch" />
+          <option value="azure-mgmt-billing" />
+          <option value="azure-mgmt-cdn" />
+          <option value="azure-mgmt-cognitiveservices" />
+          <option value="azure-mgmt-commerce" />
+          <option value="azure-mgmt-compute" />
+          <option value="azure-mgmt-consumption" />
+          <option value="azure-mgmt-containerinstance" />
+          <option value="azure-mgmt-containerregistry" />
+          <option value="azure-mgmt-containerservice" />
+          <option value="azure-mgmt-core" />
+          <option value="azure-mgmt-cosmosdb" />
+          <option value="azure-mgmt-costmanagement" />
+          <option value="azure-mgmt-databricks" />
+          <option value="azure-mgmt-datafactory" />
+          <option value="azure-mgmt-devtestlabs" />
+          <option value="azure-mgmt-eventgrid" />
+          <option value="azure-mgmt-eventhub" />
+          <option value="azure-mgmt-hanaonazure" />
+          <option value="azure-mgmt-healthcareapis" />
+          <option value="azure-mgmt-iotcentral" />
+          <option value="azure-mgmt-keyvault" />
+          <option value="azure-mgmt-kubernetesconfiguration" />
+          <option value="azure-mgmt-kusto" />
+          <option value="azure-mgmt-loganalytics" />
+          <option value="azure-mgmt-logic" />
+          <option value="azure-mgmt-machinelearningservices" />
+          <option value="azure-mgmt-managedservices" />
+          <option value="azure-mgmt-managementgroups" />
+          <option value="azure-mgmt-marketplaceordering" />
+          <option value="azure-mgmt-monitor" />
+          <option value="azure-mgmt-msi" />
+          <option value="azure-mgmt-netapp" />
+          <option value="azure-mgmt-network" />
+          <option value="azure-mgmt-notificationhubs" />
+          <option value="azure-mgmt-policyinsights" />
+          <option value="azure-mgmt-powerbiembedded" />
+          <option value="azure-mgmt-rdbms" />
+          <option value="azure-mgmt-recoveryservices" />
+          <option value="azure-mgmt-recoveryservicesbackup" />
+          <option value="azure-mgmt-recoveryservicessiterecovery" />
+          <option value="azure-mgmt-redis" />
+          <option value="azure-mgmt-resource" />
+          <option value="azure-mgmt-search" />
+          <option value="azure-mgmt-security" />
+          <option value="azure-mgmt-servicebus" />
+          <option value="azure-mgmt-servicefabric" />
+          <option value="azure-mgmt-servicelinker" />
+          <option value="azure-mgmt-signalr" />
+          <option value="azure-mgmt-sql" />
+          <option value="azure-mgmt-storage" />
+          <option value="azure-mgmt-synapse" />
+          <option value="azure-mgmt-web" />
+          <option value="msrestazure" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
